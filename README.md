@@ -7,6 +7,7 @@ A quick and easy slideshow for react native. (Android & iOS)
 
 ```bash
 npm install react-native-slideshow --save
+npm install props-type --save
 ```
 
 ## Usage
